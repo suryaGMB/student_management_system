@@ -1,0 +1,1 @@
+<h1>The mail is received </h1>
